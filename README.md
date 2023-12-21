@@ -6,4 +6,4 @@ https://github.com/Poroli/Test_1_AnimationsAndLight/assets/95571352/abcde16c-5cf
 Hier sieht man die RealtimeScene mit Button Funktion
 
 https://github.com/Poroli/Test_1_AnimationsAndLight/assets/95571352/01267223-d1d9-47fd-9cce-7dc499be7d4e
-Hier sieht man die Beaked Scene
+Hier sieht man die Baked Scene
